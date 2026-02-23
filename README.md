@@ -2,4 +2,4 @@
 
 SRE at Cisco. Works with Python & TDD. Plays with Go & Zig.
 
-[quiteclose.github.io](https://quiteclose.github.io)
+[linkedin.com/in/dsclose/](https://www.linkedin.com/in/dsclose/)
