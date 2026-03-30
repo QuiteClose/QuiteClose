@@ -1,3 +1,3 @@
 ### QuiteClose
 
-Works with Python & Go. Plays with Zig.
+Works with Python & Go. Thinks Zig is good.
